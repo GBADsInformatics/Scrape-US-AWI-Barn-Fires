@@ -1,0 +1,112 @@
+date,deaths,species,state,city
+2021-03-06,"166,000",Chickens,Arizona,Arlington
+2021-12-08,14,Goats,California,Knightsen
+2021-02-21,40,"Multiple species: baby tortoises, geese, ducklings, chicks, pigeons and an iguana",California,New Castle
+2021-12-01,60,Cows,Colorado,Kersey
+2021-02-22,"17,000",Chickens,Georgia,Gainesville
+2021-03-26,206,Multiple species: 200 pigs and 6 lambs,Idaho,Idaho Falls
+2021-12-16,11,"Multiple species: horses, goats, and chickens",Illinois,Rockford
+2021-01-12,"10,000",Pigs,Illinois,Gila
+2021-11-04,3,Calves,Indiana,Garrett
+2021-09-19,29,Multiple species: 23 cows and 6 horses,Indiana,Goshen
+2021-09-18,3,Cows,Indiana,Elkhart County
+2021-09-18,4,Horses,Indiana,Gary
+2021-02-19,3,Calves,Indiana,Boone Grove
+2021-02-15,3,Turkeys,Indiana,Washington
+2021-11-27,"200,000",Chickens,Iowa,Clearfield
+2021-06-21,40,Pigs,Iowa,Rock Rapids
+2021-06-07,100,Pigs,Iowa,Akron
+2021-06-05,4,Animals (species not specified),Iowa,Monticello
+2021-05-23,"7,500",Turkeys,Iowa,Albert City
+2021-04-05,11,Horses,Iowa,Bartlett
+2021-02-17,100,Pigs,Iowa,Walnut
+2021-02-17,5,Multiple species: sheep and chickens,Iowa,Riverside
+2021-02-06,4,Multiple species: 3 goats and a dog,Iowa,Jefferson
+2021-04-27,2,Calves,Kansas,Saline County
+2021-12-25,3,Horses,Kentucky,Scott County
+2021-04-23,51,Dogs,Kentucky,Bardstown
+2021-02-20,7,Horses,Louisiana,Elm Grove
+2021-04-18,"27,000",Chickens,Maryland,Crisfield
+2021-04-23,8,Goats,Massachusetts,Bernardston
+2021-03-17,3,Pigs,Massachusetts,Natick
+2021-08-11,5,Horses,Michigan,Olive Township
+2021-07-05,30,Cows,Michigan,Dover Township
+2021-05-04,3,Chickens,Michigan,Leslie Township
+2021-03-04,8,"Multiple species: 4 llama, a peacock and 3 chickens",Michigan,Chikaming Township
+2021-02-16,3,Horses,Michigan,Salem Township
+2021-02-17,"16,500",Turkeys,Michigan,Coopersville
+2021-02-13,7,"Multiple species: dogs, chickens and rabbits",Michigan,Burtchville Township
+2021-02-12,36,"Multiple species: chickens, guinea hens, goats and a pig",Michigan,Summit Township
+2021-10-10,117,Rabbits,Minnesota,Hollandale
+2021-08-18,"26,500",Turkeys,Minnesota,Beaver Falls Township
+2021-07-09,"7,000",Pigs,Minnesota,Frazee
+2021-05-16,"12,000",Pigs,Minnesota,Waseca County
+2021-04-19,4,Chickens,Minnesota,Belle Plaine
+2021-03-20,11,Chickens,Minnesota,Wadena Township
+2021-03-02,3,Multiple species: 2 goats and a pig,Minnesota,Waseca
+2021-01-04,25,Calves,Minnesota,Swede Grove Township
+2021-05-08,250,Chickens,Missouri,Mountain Grove
+2021-04-13,30,Pigs,Missouri,West Quincy
+2021-03-26,5,Pigs,Missouri,Eugene
+2021-03-16,22,Goats,Missouri,Knox County
+2021-02-21,3,Cows,Missouri,Columbia
+2021-02-18,10,Horses,Missouri,Cape Girardeau
+2021-12-19,6,Horses,Nebraska,Bellevue
+2021-05-31,3,Chickens,Nebraska,Holdrege
+2021-05-12,"10,000",Pigs,Nebraska,Boone County
+2021-02-15,4,Cows,Nebraska,Sheridan County
+2021-05-10,300,Chickens,New Hampshire,Stratham
+2021-12-24,2,Chickens,New York,Cicero
+2021-12-17,18,Multiple species: 3 goats and 15 chickens,New York,Lockport
+2021-12-03,2,Dogs,New York,Cohocton
+2021-10-21,201,Cows,New York,Ellisburg
+2021-08-12,1,Bull,New York,Camillus
+2021-06-23,8,Multiple species: 4 horses and 4 dogs,New York,Montgomery County
+2021-05-06,5,Chickens,New York,Cambria
+2021-04-29,60,Cows,New York,Lee Center
+2021-04-13,2,Horses,New York,Elmont
+2021-04-01,7,Sheep,New York,Rotterdam Junction
+2021-02-22,20,"Multiple species: pigs, goats and birds",New York,Baldwinsville
+2021-02-11,75,"Multiple species: quail, peacocks, rabbits, chickens and a pig",New York,Rossie
+2021-02-04,2,Chickens,New York,Rome
+2021-12-28,"25,000",Chickens,North Carolina,Clarkesville
+2021-09-27,"9,500",Chickens,North Carolina,Shelby
+2021-05-29,"19,000",Chickens,North Carolina,Rockingham
+2021-01-20,170,"Multiple species: chickens, roosters, pigs and cows",Oklahoma,Mc
+2021-09-27,12,"Multiple species: cattle, pigs, goats, llamas, and a horse",Ohio,Fremont
+2021-08-26,"6,000",Turkeys,Ohio,Darke County
+2021-07-03,3,Cows,Ohio,Convoy
+2021-03-24,"1,000",Chickens,Ohio,Bowling Green
+2021-02-22,4,Goats,Ohio,Piqua
+2021-01-28,4,Multiple species including 1 calf,Ohio,Adams County
+2021-01-13,2,Goats,Ohio,Dover
+2021-12-27,3,Cows,Pennsylvania,Butler
+2021-12-23,"17,000",Turkeys,Pennsylvania,Newport
+2021-12-14,2,Rabbits,Pennsylvania,Gettysburg
+2021-09-27,3,Horses,Pennsylvania,Benton
+2021-09-18,"32,000",Chicks,Pennsylvania,Buffalo Township
+2021-09-08,3,Pigs,Pennsylvania,Everett
+2021-08-31,120,Cows,Pennsylvania,Benton Township
+2021-06-12,1,Cow,Pennsylvania,Maxatawny Township
+2021-06-11,3,Cows,Pennsylvania,Greenfield Township
+2021-03-14,2,Horses,Pennsylvania,Pocopson Township
+2021-03-02,2,Pigs,Pennsylvania,Bullskin Township
+2021-03-02,35,Chickens,Pennsylvania,Shenango Township
+2021-01-21,"67,000",Chickens,Pennsylvania,Upper Bern Township
+2021-04-21,"3,000",Chickens,Rhode Island,Johnston
+2021-07-04,3,Goats,Tennessee,Piney Flats
+2021-05-16,5,Chickens,Tennessee,Rutherford County
+2021-03-29,140,Chickens,Tennessee,Greeneville
+2021-05-07,15,Multiple species: 10 chickens and 5 goats,Utah,Rush Valley
+2021-11-15,3,Cows,Vermont,Vernon
+2021-12-14,9,Calves,Virginia,Dinwiddie County
+2021-01-01,70,Rabbits,Virginia,Suffolk
+2021-12-21,6,Pigs,West Virginia,Augusta
+2021-09-04,4,Goats,West Virginia,Milton
+2021-12-19,3,Cows,Wisconsin,Pound
+2021-11-05,125,Birds,Wisconsin,Portland
+2021-08-02,2,Goats,Wisconsin,Union Grove
+2021-05-09,3,Chickens,Wisconsin,Greenville
+2021-02-12,18,Calves,Wisconsin,Ixonia
+2021-01-21,32,Multiple species: 30 sheep and 2 chickens,Wisconsin,Barronett
+2021-12-14,3,Chickens,Wyoming,Casper
