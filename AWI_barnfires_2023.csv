@@ -1,0 +1,42 @@
+date,deaths,species,state,city
+2023-02-26,11,Goats,California,Modesto
+2023-02-21,3,Turkeys,California,Goleta
+2023-01-17,2,Horses,California,Santa Clarita
+2023-02-04,60,Animals (species unspecified),Connecticut,Prospect
+2023-01-28,"100,000",Chickens,Connecticut,Bozrah
+2023-01-23,104,"Multiple species: Chickens, cats and rabbits",Illinois,Rockford
+2023-01-18,5,Goats,Illinois,Shiloh
+2023-03-09,500,Chickens,Indiana,Versailles
+2023-02-21,3,Chickens,Indiana,Butler
+2023-02-07,13,Pigs,Indiana,Milford
+2023-02-27,8,Multiple species: 5 horses and some chickens,Iowa,Linn County
+2023-01-20,15,Multiple species: 11 goats and several cats,Iowa,Burlington
+2023-01-15,5,Pigs,Iowa,Rock Valley
+2023-02-15,6,"Multiple species: 2 dogs, 2 goats, and 2 horses",Kentucky,Bourbon County
+2023-01-12,20,Goats,Maryland,Oakland
+2023-01-29,3,Sheep,Massachusetts,Rowe
+2023-03-15,8,"Multiple species: chickens, rabbits and a goat",Michigan,Sheridan
+2023-02-08,3,Goats,Michigan,Coopersville
+2023-04-08,4,Multiple species: 2 rabbits and 2 goats,Minnesota,Skelton Township
+2023-02-04,26,Goats,Minnesota,Wadena County
+2023-01-24,"10,000",Chickens,Missouri,Pleasant Hope
+2023-03-29,20,Sheep,North Dakota,Richland County
+2023-03-25,250,Multiple species: 200 chickens and 50 pigs,New York,Delanson
+2023-03-15,6,Multiple species: 4 pigs and 2 calves,New York,Pamelia
+2023-02-09,12,Multiple species: 10 cows and 2 horses,New York,Canton
+2023-03-09,3,Chickens,Ohio,Guilford Township
+2023-02-23,3,Goats,Ohio,Kenton
+2023-02-22,4,Multiple species: 3 horses and 1 dog,Oklahoma,Guymon
+2023-03-14,4,Animals (species unspecified),Pennsylvania,Greencastle
+2023-02-27,9,"Multiple species: 5 cats, 2 goats, and chickens",Pennsylvania,Moore Township
+2023-02-20,18,"Multiple species: 15 chickens, 2 sheep and a goat",Pennsylvania,Franklin Township
+2023-02-15,31,"Multiple species: goats, chickens, lambs, cattle, pigs, rabbits",Pennsylvania,Richmond Township
+2023-01-21,11,"Multiple species: 2 calves, 2 pigs, 4 goats, and 3 rabbits",Pennsylvania,Newburg
+2023-04-10,"18,000",Cows,Texas,Dimmitt
+2023-03-14,10,Goats,Vermont,Windsor
+2023-03-27,"15,500",Chickens,Virginia,Pine Grove
+2023-02-06,3,Multiple species: 2 dogs and 1 goat,Virginia,Winchester
+2023-01-04,4,Piglets,Virginia,Altavista
+2023-03-16,3,Animals (species unspecified),West Virginia,Cabell County
+2023-04-11,2,Animals (species unspecified),Wisconsin,Seymour
+2023-03-25,3,Animals (species unspecified),Wisconsin,Grafton
